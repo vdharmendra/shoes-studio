@@ -25,13 +25,13 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
-<a href="https://www.behance.net/gallery/210772773/Shoes-Studio" target="_blank" >
+<a href="https://www.behance.net/gallery/210777801/Shoes-Studio" target="_blank" >
 <img src="./img/shoes-studio-landing-page.png" alt="shoes-studio-landing-page" width="575px" />
 </a>
-<a href="https://www.behance.net/gallery/210772773/Shoes-Studio" target="_blank" >
+<a href="https://www.behance.net/gallery/210777801/Shoes-Studio" target="_blank" >
 <img src="./img/tablet.png" alt="shoes-studio-landing-page" width="575px" />
 </a>
-<a href="https://www.behance.net/gallery/210772773/Shoes-Studio" target="_blank" >
+<a href="https://www.behance.net/gallery/210777801/Shoes-Studio" target="_blank" >
 <img src="./img/mobile.png" alt="shoes-studio-landing-page" width="575px" />
 </a>
 
